@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on Robotics and Automation | Computer Vision | Embedded Systems<br>👯 I’m looking to collaborate on AI Driven Robotics and Automation<br>🤝 I’m looking for help with AI/ML in Mechatronics Systems<br>🌱 I’m currently learning AI Driven Mechatronics Systems<br>💬 Ask me about Robotics and Automation | Embedded Systems<br>⚡ Fun fact I am not a Psychopath
+🔭 I’m currently working on Robotics and Automation | Computer Vision | Embedded Systems<br>👯 I’m looking to collaborate on AI Driven Robotics and Automation<br>🤝 I’m looking for help with AI/ML in Mechatronics Systems<br>🌱 I’m currently learning AI Driven Mechatronics Systems<br>💬 Ask me about Robotics and Automation | Embedded Systems<br>⚡ Fun fact I am not a Psychopath 
+### Reach me out at hsherlock366@gmail.com
 
 
 ## 🌐 Socials:
